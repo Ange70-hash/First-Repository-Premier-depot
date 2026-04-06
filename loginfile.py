@@ -1,7 +1,7 @@
 username = input("non d'utilisateur : ")
 password = input("mot de passe : ")
 
-if username == "admin" and password == "1234":
+if username == "admin" and password == "TT1":
     print("accès autorisé")
 else:
     print("accès refusé")
