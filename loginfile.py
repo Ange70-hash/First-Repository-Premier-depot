@@ -1,4 +1,4 @@
-username = input("non d'utilisateur : ")
+username = input("nom d'utilisateur : ")
 password = input("mot de passe : ")
 
 if username == "admin" and password == "TT1":
